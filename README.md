@@ -15,7 +15,7 @@ A comprehensive Library Management System to help libraries manage their catalog
 
 ## Introduction
 
-The Library Management System is designed to streamline the management of libraries by automating various processes such as cataloging books, tracking borrowed and returned books, and managing user accounts.
+A library management system is software that is designed to manage all the functions of a library. It helps librarian to maintain the database of new books and the books that are borrowed by members along with their due dates.
 
 ## Features
 
